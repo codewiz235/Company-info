@@ -1,1 +1,20 @@
-{ company name: netlify}
+{
+  "companyName": "Example Company Inc.",
+  "address": {
+    "street": "123 Main Street",
+    "city": "Metropolis",
+    "state": "CA",
+    "postalCode": "12345",
+    "country": "USA"
+  },
+  "contact": {
+    "phone": "+1-555-123-4567",
+    "email": "info@example.com",
+    "website": "https://www.example.com"
+  },
+  "founded": "2010-06-15",
+  "employees": 150,
+  "industry": "Software Development",
+  "description": "Example Company Inc. is a leading provider of innovative software solutions for businesses worldwide.",
+  "ceo": "Jane Doe"
+}
